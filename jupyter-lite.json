@@ -1,0 +1,12 @@
+{
+  "jupyterLite": {
+    "distribution": "local",
+    "apps": [
+      "notebook"
+    ],
+    "kernels": [
+      "sqlite"
+    ],
+    "contents": "./content"
+  }
+}
